@@ -18,7 +18,7 @@
 <link rel="stylesheet" href="assets/css/dark-theme.css">
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="stylesheet" href="assets/css/rtl.css">
-<title>Raxa - Money Transfer Speed & Banking HTML Template</title>
+<title>Raxa - Money Transfer Spppeed & Banking HTML Template</title>
 <link rel="icon" type="image/png" href="assets/img/favicon.png">
 </head>
 <body>
