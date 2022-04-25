@@ -35,7 +35,7 @@
                     data-revert="true"
                   >
                     <span>Instant Money Transfer</span>
-                    <h1>Transfer Money Across World In Real Time</h1>
+                    <h1>Transfer Mondsey Across World In Real Time</h1>
                     <p>
                       Dea of denouncing pleasure and praising pain was born and
                       lete system, and expound the ac teachings aitems to sed
