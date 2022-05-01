@@ -256,6 +256,10 @@ Single Blog
 <li class="nav-item xl-none">
 <a href="register.html" class="btn style1">Register Now</a>
 </li>
+</li>
+<li class="nav-item xl-none">
+<a href="" class="btn style1">Combank Digital</a>
+</li>
 </ul>
 <div class="others-options  lg-none">
 <div class="searchbox">
