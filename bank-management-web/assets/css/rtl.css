@@ -245,12 +245,12 @@ select {
 
 .header-wrap .header-bottom .searchbox {
     margin-left: 30px;
-    margin-right: 25px
+    margin-right: 75px;
 }
 
 .header-wrap .header-bottom .searchbox button {
     right: auto;
-    left: 0
+    left: 10;
 }
 
 .header-top-right .select-lang {
