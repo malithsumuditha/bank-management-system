@@ -1,3 +1,4 @@
+<html lang="ar" >
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -107,7 +108,7 @@
         <div class="header-bottom">
           <div class="container">
             <nav class="navbar navbar-expand-md navbar-light">
-              <a class="navbar-brand" href="index.html">
+              <a class="navbar-brand" href="index.php">
                 <img class="logo-light" src="assets/img/logo.png" alt="logo" />
                 <img
                   class="logo-dark"
@@ -132,20 +133,20 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="index.html" class="nav-link active"
+                        <a href="index.php" class="nav-link active"
                           >Home One</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="index-2.html" class="nav-link">Home Two</a>
+                        <a href="index-2.php" class="nav-link">Home Two</a>
                       </li>
                       <li class="nav-item">
-                        <a href="index-3.html" class="nav-link">Home Three</a>
+                        <a href="index-3.php" class="nav-link">Home Three</a>
                       </li>
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="about.html" class="nav-link"> About Us </a>
+                    <a href="about.php" class="nav-link"> About Us </a>
                   </li>
                   <li class="nav-item has-dropdown">
                     <a href="#" class="nav-link">
@@ -154,17 +155,17 @@
                     </a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
-                        <a href="service-one.html" class="nav-link"
+                        <a href="service-one.php" class="nav-link"
                           >Service One</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="service-two.html" class="nav-link"
+                        <a href="service-two.php" class="nav-link"
                           >Service Two</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="service-details.html" class="nav-link"
+                        <a href="service-details.php" class="nav-link"
                           >Service Details</a
                         >
                       </li>
@@ -183,38 +184,38 @@
                         </a>
                         <ul class="dropdown-menu">
                           <li class="nav-item">
-                            <a href="project.html" class="nav-link"
+                            <a href="project.php" class="nav-link"
                               >Our Project</a
                             >
                           </li>
                           <li class="nav-item">
-                            <a href="project-details.html" class="nav-link"
+                            <a href="project-details.php" class="nav-link"
                               >Single Project</a
                             >
                           </li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a href="team.html" class="nav-link">Our Team</a>
+                        <a href="team.php" class="nav-link">Our Team</a>
                       </li>
                       <li class="nav-item">
-                        <a href="open-account.html" class="nav-link"
+                        <a href="open-account.php" class="nav-link"
                           >Open Account</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="apply-loan.html" class="nav-link"
+                        <a href="apply-loan.php" class="nav-link"
                           >Apply Loan</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="pricing.html" class="nav-link">Pricing Plan</a>
+                        <a href="pricing.php" class="nav-link">Pricing Plan</a>
                       </li>
                       <li class="nav-item">
-                        <a href="faq.html" class="nav-link">FAQ</a>
+                        <a href="faq.php" class="nav-link">FAQ</a>
                       </li>
                       <li class="nav-item">
-                        <a href="testimonials.html" class="nav-link"
+                        <a href="testimonials.php" class="nav-link"
                           >Testimonials</a
                         >
                       </li>
@@ -225,37 +226,37 @@
                         </a>
                         <ul class="dropdown-menu">
                           <li class="nav-item">
-                            <a href="my-account.html" class="nav-link"
+                            <a href="my-account.php" class="nav-link"
                               >My Account</a
                             >
                           </li>
                           <li class="nav-item">
-                            <a href="login.html" class="nav-link">Login</a>
+                            <a href="login.php" class="nav-link">Login</a>
                           </li>
                           <li class="nav-item">
-                            <a href="register.html" class="nav-link"
+                            <a href="register.php" class="nav-link"
                               >Register</a
                             >
                           </li>
                           <li class="nav-item">
-                            <a href="recover-password.html" class="nav-link"
+                            <a href="recover-password.php" class="nav-link"
                               >Recover Password</a
                             >
                           </li>
                         </ul>
                       </li>
                       <li class="nav-item">
-                        <a href="terms-of-service.html" class="nav-link"
+                        <a href="terms-of-service.php" class="nav-link"
                           >Terms of Service</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="privacy-policy.html" class="nav-link"
+                        <a href="privacy-policy.php" class="nav-link"
                           >Privacy Policy</a
                         >
                       </li>
                       <li class="nav-item">
-                        <a href="error-404.html" class="nav-link"
+                        <a href="error-404.php" class="nav-link"
                           >404 Error Page</a
                         >
                       </li>
@@ -325,8 +326,9 @@
                     <a href="contact.html" class="nav-link">Contact Us</a>
                   </li>
                   <li class="nav-item xl-none">
-                    <a href="register.html" class="btn style1">Register Now</a>
+                    <a href="register.php" class="btn style1">Register Now</a>
                   </li>
+                  
                 </ul>
                 <div class="others-options lg-none">
                   <div class="searchbox">
@@ -336,7 +338,10 @@
                     </button>
                   </div>
                   <div class="header-btn lg-none">
-                    <a href="register.html" class="btn style1">Register Now</a>
+                    <a href="register.php" class="btn style1">Register Now</a>
+                  </div>
+                  <div class="header-btn lg-none">
+                    <a href="register.php" class="btn style1">Digital Bank</a>
                   </div>
                 </div>
               </div>
