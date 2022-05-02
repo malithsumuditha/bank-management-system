@@ -34,12 +34,13 @@
                     data-speed="0.10"
                     data-revert="true"
                   >
-                    <span>Instant Money Transfer</span>
-                    <h1>Transfer Mondsey Across World In Real Time</h1>
+                    <span>Online Banking</span>
+                    <h1>Banking at your fingertips</h1>
                     <p>
-                      Dea of denouncing pleasure and praising pain was born and
-                      lete system, and expound the ac teachings aitems to sed
-                      quia non numquam amet sit dolor.
+                    Experience the convenience and safety of ABC Online Banking 
+                    with enhanced features that make your banking experience easier. It allows you to manage your account at the comfort of your home/workplace. 
+                    How to transfer funds quickly between your accounts by setting up local fund transfers (Global Transfers) and paying bills. 
+                    Save time and money by making your transfers and payments online, anytime, anywhere.
                     </p>
                     <div class="hero-btn">
                       <a href="service-one.html" class="btn style1"
