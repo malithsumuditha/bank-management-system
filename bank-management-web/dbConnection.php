@@ -2,7 +2,7 @@
 //Database configuration
 $dbHost     = "localhost";
 $dbUsername = "root";
-$dbPassword = "Malith0a";
+$dbPassword = "Malith0aa";
 $dbName     = "bank_management";
 
 // // Create database connection
