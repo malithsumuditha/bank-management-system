@@ -318,7 +318,7 @@
                     <a href="register.php" class="btn style1">Register Now</a>
                   </div>
                   <div class="header-btn lg-none">
-                    <a href="vertical/index.html" class="btn style1">Digital Bank</a>
+                    <a href="digital_wallet/index.php" class="btn style100">Digital Bank</a>
                   </div>
                 </div>
               </div>

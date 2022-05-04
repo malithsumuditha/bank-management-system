@@ -74,6 +74,10 @@ input:checked + .slider:before {
   background-color: #161942;
   margin-left: 20px;
 }
+.theme-light .header-wrap.style1 .header-bottom .header-btn .btn.style100 {
+  background-color: #ac0707;
+  margin-left: 20px;
+}
 .theme-light .header-wrap.style1 .header-bottom .header-btn .btn.style1:after {
   background-color: #00a9a4;
 }

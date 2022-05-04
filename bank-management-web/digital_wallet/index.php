@@ -54,7 +54,7 @@
             </div>
             <div class="card-footer bg-white p-0  ">
                 <div class="card-footer-item card-footer-item-bordered">
-                    <a href="register.php" class="footer-link">Create An Account</a></div>
+                    <a href="../index.php" class="footer-link">Home</a></div>
                 <div class="card-footer-item card-footer-item-bordered">
                     <a href="#" class="footer-link">Forgot Password</a>
                 </div>
