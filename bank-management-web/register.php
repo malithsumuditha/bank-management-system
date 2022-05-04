@@ -43,7 +43,6 @@
                             <div class="login-form-wrap">
                                 <div class="login-header">
                                     <h3>Register New Account</h3>
-                                    <p>Welcome!! Create A New Account</p>
                                 </div>
                                 <div class="login-form">
                                     <div class="login-body">
