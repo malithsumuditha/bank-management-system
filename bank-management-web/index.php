@@ -93,9 +93,10 @@
                     <span>Online Payment System</span>
                     <h1>Secured &amp; Easy Online Payment Solution</h1>
                     <p>
-                      Dea of denouncing pleasure and praising pain was born and
-                      lete system, and expound the ac teachings aitems to sed
-                      quia non numquam amet sit dolor.
+                    When you make a transaction at the bank branch, you will receive an acknowledgement receipt. 
+                    There are possibilities of you losing it. In contrast, all the transactions you perform on a bank’s internet banking portal will be recorded. 
+                    You can show this as proof of the transaction if need be. 
+                    Details such as the payee’s name, bank account number, the amount paid, the date and time of payment, and remarks if any will be recorded as well..
                     </p>
                     <div class="hero-btn">
                       <a href="service-one.html" class="btn style1"
@@ -145,16 +146,15 @@
                     data-speed="0.10"
                     data-revert="true"
                   >
-                    <span>Global Money Transfer</span>
+                    <span>IInterbank Money Transfer</span>
                     <h1>Move Your Money In Easy Secured Steps</h1>
                     <p>
-                      Dea of denouncing pleasure and praising pain was born and
-                      lete system, and expound the ac teachings aitems to sed
-                      quia non numquam amet sit dolor.
+                    You can complete any transaction in a matter of a few minutes via internet banking. 
+                    Funds can be transferred to any account within the country or open a fixed deposit account within no time on netbanking..
                     </p>
                     <div class="hero-btn">
                       <a href="service-one.html" class="btn style1"
-                        >Get Started</a
+                        >How to Money Transfer in InterBank</a
                       >
                       <a
                         class="play-video"
@@ -205,11 +205,11 @@
                     type="number"
                     id="send_money"
                     name="send_money"
-                    placeholder="$1000"
+                    placeholder="RS1000"
                   />
                   <select>
-                    <option value="1">USD</option>
-                    <option value="2">EURO</option>
+                    <option value="1">LKR</option>
+                    <option value="2">USD</option>
                   </select>
                 </div>
               </div>
@@ -220,11 +220,11 @@
                     type="number"
                     id="recieved_money"
                     name="recieved_money"
-                    placeholder="$1000"
+                    placeholder="RS1000"
                   />
                   <select>
-                    <option value="1">USD</option>
-                    <option value="2">EURO</option>
+                    <option value="1">LKR</option>
+                    <option value="2">USD</option>
                   </select>
                 </div>
               </div>
@@ -237,7 +237,7 @@
               </div>
               <div class="col-lg-12">
                 <p>
-                  <span>82.50</span> Exchange Rate <span>$5.50</span> Transition
+                  <span>LKR 970</span> Exchange Rate <span>LKR 30</span> Transition
                   Fees
                 </p>
                 <p>
@@ -267,9 +267,7 @@
                     <h3>Create An Account</h3>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet dolor alut const slice elit
-                    aliquid dolor ametin perfer endis velit sed fuga volup
-                    tation sit praising pain.
+                  Earn daily interest and enjoy easy access to your money with our Savings Account, which comes with a choice of either a Passbook Savings or a Statement Savings account.
                   </p>
                 </div>
               </div>
@@ -286,9 +284,8 @@
                     <h3>Attach bank Account</h3>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet dolor alut const slice elit
-                    aliquid dolor ametin perfer endis velit sed fuga volup
-                    tation sit praising pain.
+                  You need to know your Debit Card number & Password to register Online Banking.In addition, you need a PC with internet access and a mobile phone for receiving the One Time Passcode (OTP) via SMS. 
+                  The mobile number needs to be pre-registered with our Bank.
                   </p>
                 </div>
               </div>
@@ -305,9 +302,7 @@
                     <h3>Send Money</h3>
                   </div>
                   <p>
-                    Lorem ipsum dolor sit amet dolor alut const slice elit
-                    aliquid dolor ametin perfer endis velit sed fuga volup
-                    tation sit praising pain.
+                  Personal Banking provides 24-hour customer service hotline, online banking, mobile banking, video banking, online investment products trading platform, which can help you enjoy banking services easily.
                   </p>
                 </div>
               </div>
@@ -340,10 +335,7 @@
                   <span>Why Choose Us</span>
                   <h2>Get World Class &amp; Fastest Online Payment Service</h2>
                   <p>
-                    There are many variations of passages of Lorem Ipsum amet
-                    avoilble but majority have suffered alteration in some form,
-                    by injected humur or randomise words which don't sure amet
-                    sit dolor quras alto lorem.
+                  Log in to online banking to manage your finance anytime, anywhere and enjoy online FCY TD VIP rate!.
                   </p>
                 </div>
                 <div class="feature-item-wrap">
@@ -354,8 +346,8 @@
                     <div class="feature-text">
                       <h3>Low Costing</h3>
                       <p>
-                        Vestibulum ac diam sit amet quam vehicula elemen tum sed
-                        sit amet dui praesent sapien pelle tesque.
+                      Offering greater convenience, we waive charges for Domestic Fund Transfers performed via Online Banking for individual customers.
+                      The bank may end this fee waiver without prior notice, at its sole discretion.
                       </p>
                     </div>
                   </div>
@@ -366,8 +358,7 @@
                     <div class="feature-text">
                       <h3>Safe &amp; Secure</h3>
                       <p>
-                        Vestibulum ac diam sit amet quam vehicula elemen tum sed
-                        sit amet dui praesent sapien pelle tesque.
+                      Two-factor-Authentication is a security process requiring the user or customer to provide two means of identification known only to the customer..
                       </p>
                     </div>
                   </div>
@@ -378,8 +369,7 @@
                     <div class="feature-text">
                       <h3>Live Support</h3>
                       <p>
-                        Vestibulum ac diam sit amet quam vehicula elemen tum sed
-                        sit amet dui praesent sapien pelle tesque.
+                      If you forget your username, please call Customer Service Center, 011-4125-256(landline)/071-125-1254(mobile); 
                       </p>
                     </div>
                   </div>
@@ -443,7 +433,7 @@
           />
           <div class="section-title style1 text-center mb-40">
             <span>Our Services</span>
-            <h2 class="text-white">Get Your Raxa online Banking</h2>
+            <h2 class="text-white">Get Your ABC online Banking</h2>
           </div>
           <div class="row gx-5 align-items-center">
             <div class="col-md-6">
@@ -454,9 +444,8 @@
                 <div class="service-info">
                   <h3><a href="service-details.html">Mobile Banking</a></h3>
                   <p>
-                    Is simply dummy text of the printing and setting type the
-                    industry's standard dummy text ever since then nowpri nter
-                    took a galley alto.
+                  You can use the username and password of your Online Banking. 
+                  We make sure everything is simple and convenient, so you do not need to remember another set of username and password.
                   </p>
                 </div>
               </div>
@@ -469,9 +458,7 @@
                 <div class="service-info">
                   <h3><a href="service-details.html">Secure Payment</a></h3>
                   <p>
-                    Is simply dummy text of the printing and setting type the
-                    industry's standard dummy text ever since then nowpri nter
-                    took a galley alto.
+                  If you suspect there are unauthorized transactions on your account, please go to our branches or report this to our Customer Service Hotline immediately.
                   </p>
                 </div>
               </div>
@@ -484,9 +471,8 @@
                 <div class="service-info">
                   <h3><a href="service-details.html">Saving Account</a></h3>
                   <p>
-                    Is simply dummy text of the printing and setting type the
-                    industry's standard dummy text ever since then nowpri nter
-                    took a galley alto.
+                  If you wish to earn interest on your savings and have easy access to your money, consider our savings account. 
+                  The daily interest earned is paid quarterly, and comes with a choice of either a Passbook Savings or a Statement Savings account.
                   </p>
                 </div>
               </div>
@@ -499,9 +485,7 @@
                 <div class="service-info">
                   <h3><a href="service-details.html">Personal Savings</a></h3>
                   <p>
-                    Is simply dummy text of the printing and setting type the
-                    industry's standard dummy text ever since then nowpri nter
-                    took a galley alto.
+                  Earn daily interest and enjoy easy access to your money with our Personal Savings Account, which comes with a choice of either a Passbook Savings or a Statement Savings account.
                   </p>
                 </div>
               </div>
@@ -532,10 +516,7 @@
                   <span>Online Shopping</span>
                   <h2>Shop Online Make In Online Banking Payments</h2>
                   <p>
-                    There are many variations of passages of Lorem Ipsum amet
-                    avoilble but majority have suffered alteration in some form,
-                    by injected humur or randomise words which don't sure amet
-                    sit dolor quras alto lorem.
+                  Shop with ease at all China Union Pay (CUP)-enabled merchant point-of-sale terminals within China and around the world. Simply pay using your ABC Bank Debit Card.
                   </p>
                 </div>
                 <ul class="content-feature-list list-style">
@@ -585,12 +566,8 @@
                 <i class="flaticon-quotation-mark"></i>
               </span>
               <p class="client-quote">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua enim
-                minim veniam, quis nostrud exercise amet loremtation amet
-                ullamco laboris nisi ut aliquip ex eacoo consequat. Duisaute
-                irure dolor in reprehen ametderit in voluptate velit esse cillum
-                dolore eu fugiat.
+              The whole team is there to help! We make manual deposits quite often and they’re friendly, competent, and given the ability to help. 
+              ABC Bank have gone above and beyond this week to make sure banking with ABC Bank is easy and hassle-free and this is consistent with how we’ve always been treated by everyone at this branch.
               </p>
               <div class="testimonial-card-thumb">
                 <div class="client-info-wrap">
@@ -601,8 +578,8 @@
                     />
                   </div>
                   <div class="client-info">
-                    <h4>Shonda Leer</h4>
-                    <span>Director, BAT</span>
+                    <h4>NK Nonim</h4>
+                    <span>Director, Bank of ABC</span>
                   </div>
                 </div>
               </div>
@@ -612,12 +589,9 @@
                 <i class="flaticon-quotation-mark"></i>
               </span>
               <p class="client-quote">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua enim
-                minim veniam, quis nostrud exercise amet loremtation amet
-                ullamco laboris nisi ut aliquip ex eacoo consequat. Duisaute
-                irure dolor in reprehen ametderit in voluptate velit esse cillum
-                dolore eu fugiat.
+              Dear Visitors,
+              Indeed, taking a moment of your precious time to visit our website proves that you are highly interested in our services. 
+              We warmly thank you for this and promise that by browsing these pages, you will come across interesting and useful information about the Bank of ABC(ABC).
               </p>
               <div class="testimonial-card-thumb">
                 <div class="client-info-wrap">
@@ -628,8 +602,8 @@
                     />
                   </div>
                   <div class="client-info">
-                    <h4>Alex Cruis</h4>
-                    <span>CEO, IBAC</span>
+                    <h4>HPM Malith</h4>
+                    <span>CEO, Bank of ABC</span>
                   </div>
                 </div>
               </div>
@@ -639,12 +613,11 @@
                 <i class="flaticon-quotation-mark"></i>
               </span>
               <p class="client-quote">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua enim
-                minim veniam, quis nostrud exercise amet loremtation amet
-                ullamco laboris nisi ut aliquip ex eacoo consequat. Duisaute
-                irure dolor in reprehen ametderit in voluptate velit esse cillum
-                dolore eu fugiat.
+              As CEO of ABC Bank, I would like to welcome you to ABC Bank Online. 
+              Designed to help make your banking easier and more convenient, ABC Bank Online offers a number of products and services for the first time account holder or the most sophisticated Internet customer.
+              While you may visit our main office in West Liberty or our branch office located in Index, KY,  ABC Bank Online is an extension of our commitment to provide all of our customers new and convenient solutions to all their financial needs.
+              You can pay your bills via our Internet site with Online Pay, or you can view your checking account statement with our Online Banking feature. 
+              Browse our site and use our financial calculators to determine how much your payments will be on that new car or estimate how much you will need to save each month to put your children through college. ABC Bank Online offers these services and more.
               </p>
               <div class="testimonial-card-thumb">
                 <div class="client-info-wrap">
@@ -655,8 +628,8 @@
                     />
                   </div>
                   <div class="client-info">
-                    <h4>Marion Ott</h4>
-                    <span>Founder, Olleo</span>
+                    <h4>WK Kevin</h4>
+                    <span>Founder, Bank of ABC</span>
                   </div>
                 </div>
               </div>
@@ -666,12 +639,10 @@
                 <i class="flaticon-quotation-mark"></i>
               </span>
               <p class="client-quote">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua enim
-                minim veniam, quis nostrud exercise amet loremtation amet
-                ullamco laboris nisi ut aliquip ex eacoo consequat. Duisaute
-                irure dolor in reprehen ametderit in voluptate velit esse cillum
-                dolore eu fugiat.
+              Welcome to our website. I hope you find it informative, interesting and clear.
+              Collectively, our team has several years of relevant experience, which provides us with the opportunity to review and reflect on the cycles we have encountered and what we have learned about our industry and ourselves.
+              Our ambition is to be the best in our business and the partner of choice to our clients who seek solutions within the financial services space. 
+              We work with the simple mantra that “Clients come first”.
               </p>
               <div class="testimonial-card-thumb">
                 <div class="client-info-wrap">
@@ -682,7 +653,7 @@
                     />
                   </div>
                   <div class="client-info">
-                    <h4>Harry Jackson</h4>
+                    <h4>HW Dulanjana</h4>
                     <span>Enterpreneur</span>
                   </div>
                 </div>
@@ -693,12 +664,7 @@
                 <i class="flaticon-quotation-mark"></i>
               </span>
               <p class="client-quote">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua enim
-                minim veniam, quis nostrud exercise amet loremtation amet
-                ullamco laboris nisi ut aliquip ex eacoo consequat. Duisaute
-                irure dolor in reprehen ametderit in voluptate velit esse cillum
-                dolore eu fugiat.
+              The appearance of a thousand new applications a day, the ongoing battle of advertising budgets, and the rise in the cost of hiring programmers is the reality of the mobile applications market.
               </p>
               <div class="testimonial-card-thumb">
                 <div class="client-info-wrap">
@@ -709,7 +675,7 @@
                     />
                   </div>
                   <div class="client-info">
-                    <h4>Brock Lee</h4>
+                    <h4>K Gimhana</h4>
                     <span>Developer</span>
                   </div>
                 </div>
@@ -725,7 +691,7 @@
             <div class="col-lg-7 col-md-8">
               <div class="app-content sm-center">
                 <div class="content-title style2">
-                  <h2>You Can Find All Things You Need In Our App</h2>
+                  <h2>You Can Find All Things You Need In Our App, Website.</h2>
                 </div>
               </div>
             </div>
@@ -772,10 +738,8 @@
                   <span>Goal Setting</span>
                   <h2>Manage Your Money With Online Banking Solution</h2>
                   <p>
-                    There are many variations of passages of Lorem Ipsum amet
-                    avoilble but majority have suffered alteration in some form,
-                    by injected humur or randomise words which don't sure amet
-                    sit dolor quras alto lorem.
+                  You can complete any transaction in a matter of a few minutes via internet banking. 
+                  Funds can be transferred to any account within the country or open a fixed deposit account within no time on netbanking.
                   </p>
                 </div>
                 <ul class="content-feature-list style1 list-style">
@@ -803,7 +767,7 @@
       <section class="blog-wrap pt-100 pb-75 bg-albastor">
         <div class="container">
           <div class="section-title style1 text-center mb-40">
-            <span>Latest Insights From Raxa</span>
+            <span>Latest Insights From ABC</span>
             <h2>Our Latest Articles</h2>
           </div>
           <div class="row justify-content-center">
@@ -816,7 +780,7 @@
                   <ul class="blog-metainfo list-style">
                     <li>
                       <i class="flaticon-user"></i>
-                      <a href="posts-by-author.html">Reanne Carnation</a>
+                      <a href="posts-by-author.html">MR Waldin Nande</a>
                     </li>
                     <li><i class="flaticon-calendar"></i>02 Jan, 2022</li>
                   </ul>
@@ -840,7 +804,7 @@
                   <ul class="blog-metainfo list-style">
                     <li>
                       <i class="flaticon-user"></i>
-                      <a href="posts-by-author.html">Phil Heath</a>
+                      <a href="posts-by-author.html">Mr Mainas</a>
                     </li>
                     <li><i class="flaticon-calendar"></i>12 Dec, 2021</li>
                   </ul>
@@ -864,9 +828,9 @@
                   <ul class="blog-metainfo list-style">
                     <li>
                       <i class="flaticon-user"></i
-                      ><a href="posts-by-author.html">Phil Heath</a>
+                      ><a href="posts-by-author.html">Mr kaputas</a>
                     </li>
-                    <li><i class="flaticon-calendar"></i>12 Dec, 2021</li>
+                    <li><i class="flaticon-calendar"></i>12 Apr, 2022</li>
                   </ul>
                   <h3>
                     <a href="blog-details-right-sidebar.html"

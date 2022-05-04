@@ -245,12 +245,12 @@ select {
 
 .header-wrap .header-bottom .searchbox {
     margin-left: 30px;
-    margin-right: 25px
+    margin-right: 75px;
 }
 
 .header-wrap .header-bottom .searchbox button {
     right: auto;
-    left: 0
+    left: 10;
 }
 
 .header-top-right .select-lang {
@@ -594,7 +594,7 @@ select {
 
 .service-card.style3 .service-info {
     margin-right: 25px;
-    margin-left: 0
+    margin-left: 2px;
 }
 
 .service-card.style4 .service-info .service-title h3 {
@@ -1589,7 +1589,7 @@ select {
     }
 
     .header-wrap .navbar .navbar-nav {
-        margin-left: 0;
+        margin-left: 80px;
         margin-right: auto
     }
 
@@ -1628,7 +1628,8 @@ select {
 
     .footer-wrap .footer-widget .footer-menu.style2 {
         padding-right: 0;
-        padding-left: 20px
+        padding-left: 20px;
+        
     }
 
     .footer-wrap .footer-widget .comp-desc {
@@ -1646,8 +1647,9 @@ select {
 
 @media only screen and (min-width:1600px) {
     .footer-wrap .footer-widget .comp-desc {
-        padding-right: 0;
-        padding-left: 80px
+        padding-right: 50px;
+        padding-left: 2px;
+        margin-left: -150px;
     }
 }
 
@@ -1691,7 +1693,7 @@ select {
 
     .header-wrap .navbar .navbar-nav .nav-item .dropdown-menu li a i {
         right: auto;
-        left: 0;
+        left: 200px;
         top: 23px;
         -webkit-transform: rotate(90deg);
         transform: rotate(90deg)
