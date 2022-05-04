@@ -1628,7 +1628,8 @@ select {
 
     .footer-wrap .footer-widget .footer-menu.style2 {
         padding-right: 0;
-        padding-left: 20px
+        padding-left: 20px;
+        
     }
 
     .footer-wrap .footer-widget .comp-desc {
@@ -1646,8 +1647,9 @@ select {
 
 @media only screen and (min-width:1600px) {
     .footer-wrap .footer-widget .comp-desc {
-        padding-right: 0;
-        padding-left: 80px
+        padding-right: 50px;
+        padding-left: 2px;
+        margin-left: -150px;
     }
 }
 

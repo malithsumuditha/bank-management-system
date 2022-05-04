@@ -50,6 +50,7 @@ a:focus {
 img {
   max-width: 100%;
   height: auto;
+  margin-right: 240px;
 }
 h1,
 h2,
