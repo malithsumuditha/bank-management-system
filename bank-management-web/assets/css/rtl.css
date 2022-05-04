@@ -594,7 +594,7 @@ select {
 
 .service-card.style3 .service-info {
     margin-right: 25px;
-    margin-left: 0
+    margin-left: 2px;
 }
 
 .service-card.style4 .service-info .service-title h3 {
