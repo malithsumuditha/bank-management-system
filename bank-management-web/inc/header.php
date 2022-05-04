@@ -126,24 +126,10 @@
                   ></a>
                 </div>
                 <ul class="navbar-nav ms-auto">
-                  <li class="nav-item has-dropdown">
-                    <a href="#" class="nav-link active">
+                  <li class="nav-item">
+                    <a href="#" class="nav-link">
                       Home
-                      <i class="ri-arrow-down-s-line"></i>
                     </a>
-                    <ul class="dropdown-menu">
-                      <li class="nav-item">
-                        <a href="index.php" class="nav-link active"
-                          >Home One</a
-                        >
-                      </li>
-                      <li class="nav-item">
-                        <a href="index-2.php" class="nav-link">Home Two</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="index-3.php" class="nav-link">Home Three</a>
-                      </li>
-                    </ul>
                   </li>
                   <li class="nav-item">
                     <a href="about.php" class="nav-link"> About Us </a>
@@ -156,41 +142,36 @@
                     <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="service-one.php" class="nav-link"
-                          >Service One</a
+                          >Financial</a
                         >
                       </li>
                       <li class="nav-item">
                         <a href="service-two.php" class="nav-link"
-                          >Service Two</a
-                        >
-                      </li>
-                      <li class="nav-item">
-                        <a href="service-details.php" class="nav-link"
-                          >Service Details</a
+                          >Leasing</a
                         >
                       </li>
                     </ul>
                   </li>
                   <li class="nav-item has-dropdown">
                     <a href="#" class="nav-link">
-                      Pages
+                      Personal Banking
                       <i class="ri-arrow-down-s-line"></i>
                     </a>
                     <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="#" class="nav-link">
-                          Project
+                          Open Account
                           <i class="ri-arrow-down-s-line"></i>
                         </a>
                         <ul class="dropdown-menu">
                           <li class="nav-item">
                             <a href="project.php" class="nav-link"
-                              >Our Project</a
+                              >Saving Account</a
                             >
                           </li>
                           <li class="nav-item">
                             <a href="project-details.php" class="nav-link"
-                              >Single Project</a
+                              >Current Account</a
                             >
                           </li>
                         </ul>
@@ -257,7 +238,7 @@
                       </li>
                       <li class="nav-item">
                         <a href="error-404.php" class="nav-link"
-                          >404 Error Page</a
+                          >=</a
                         >
                       </li>
                     </ul>
