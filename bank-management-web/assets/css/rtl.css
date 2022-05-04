@@ -526,8 +526,8 @@ select {
 }
 
 .why-choose-wrap .wh-content .feature-item-wrap .feature-item .feature-text {
-    margin-right: 25px;
-    margin-left: 0
+    margin-right: 1px;
+    margin-left: 23px;
 }
 
 .feature-card .feature-info .feature-title h3 {
@@ -737,9 +737,9 @@ select {
 }
 
 .testimonial-card-thumb .client-info-wrap .client-info {
-    margin-right: 15px;
-    margin-left: 0;
-    text-align: right
+    margin-right: 18px;
+    margin-left: 1px;
+    text-align: left;
 }
 
 .testimonial-slider-three.owl-carousel .owl-nav button.owl-prev {
