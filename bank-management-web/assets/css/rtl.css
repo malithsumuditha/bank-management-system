@@ -1691,7 +1691,7 @@ select {
 
     .header-wrap .navbar .navbar-nav .nav-item .dropdown-menu li a i {
         right: auto;
-        left: 0;
+        left: 200px;
         top: 23px;
         -webkit-transform: rotate(90deg);
         transform: rotate(90deg)

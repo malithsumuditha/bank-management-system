@@ -180,14 +180,10 @@
                         <a href="team.php" class="nav-link">Our Team</a>
                       </li>
                       <li class="nav-item">
-                        <a href="open-account.php" class="nav-link"
-                          >Open Account</a
-                        >
+                        <a href="open-account.php" class="nav-link">Open Account</a>
                       </li>
                       <li class="nav-item">
-                        <a href="apply-loan.php" class="nav-link"
-                          >Apply Loan</a
-                        >
+                        <a href="apply-loan.php" class="nav-link">Apply Loan</a>
                       </li>
                       <li class="nav-item">
                         <a href="pricing.php" class="nav-link">Pricing Plan</a>
