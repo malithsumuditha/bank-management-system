@@ -593,8 +593,8 @@ select {
 }
 
 .service-card.style3 .service-info {
-    margin-right: 25px;
-    margin-left: 2px;
+    margin-right: 1px;
+    margin-left: 1px;
 }
 
 .service-card.style4 .service-info .service-title h3 {
