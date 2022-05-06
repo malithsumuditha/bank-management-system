@@ -44,7 +44,7 @@
                   <ul class="contact-info list-style">
                     <li>
                       <i class="flaticon-call"></i>
-                      <a href="tel:02459271449">(+024) 592 71 449</a>
+                      <a href="tel:+94115152141">(+94) 11 515 2141</a>
                     </li>
                     <li>
                       <i class="flaticon-email-1"></i>
@@ -59,7 +59,7 @@
                     </li>
                     <li>
                       <i class="flaticon-pin"></i>
-                      <p>St. Here Mandalay, New York, U.K</p>
+                      <p>ABC Head office, No 25 ,Kollupitiya, Colombo 3, Sri lanka</p>
                     </li>
                   </ul>
                 </div>
