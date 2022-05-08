@@ -34,16 +34,16 @@
                 <div class="col-xl-10 offset-xl-1">
                     <div class="single-terms">
                         <h3>Legal Disclaimer: </h3>
-                        <p>We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, fill out a form, and in connection with other <strong>activities</strong>, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number, <a href="index.html">company name</a>. We will collect personal identification information from Users only if they voluntarily consent such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.</p>
+                        <p>This Web site contains opinion, information, and material relating to current occurrences in the domestic and international economic environment and financial markets that are subject to change without notice. ABC Bank of Ceylon PLC, the Management and its Employees shall not be liable for any loss or damage arising as a result of your use of or reliance on such information.</p>
                     </div>
                     <div class="single-terms">
                         <h3>Credit Reporting Terms of Service</h3>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum, quod. Ratione ex delectus quis tenetur odio non alias numquam official ipsum dolor sit, amet consectetur adipisicing elit. Accusamus, laborum.</p>
+                        <p>“Account Related Services” shall mean the Services which pertain to information in relation to the Account of the Bank’s Customer including but not limited to balance inquiry, account history and cheque book request which are enabled by the Bank, from time to time, at its sole discretion.</p>
                         <ol>
-                            <li>Mauris ut in vestibulum hasellus ultrices fusce nibh justo, venenatis, amet. Lectus quam in lobortis.</li>
-                            <li>Consectetur phasellus <strong>ultrices</strong> fusce nibh justo, venenatis, amet. Lectus quam in lobortis justo venenatis amet.</li>
-                            <li>Lectus quam there are two thing is very important in Consectetur phasellus ultrices fusce nibh justo, venenatis, amet in lobortis.</li>
-                            <li>Web Development very creative to do something , mauris ut in vestibulum. Consectetur phasellus ultrices fusce nibh justo, venenatis, amet to all design.</li>
+                            <li>ELIGIBILITY FOR USING THE SERVICES.</li>
+                            <li>THIRD PARTY</li>
+                            <li>APPLICABILITY OF “BANK WITH COMBANK ON VIBER SERVICE” TERMS AND CONDITIONS.</li>
+                            <li>REGISTRATION AND VERIFICATION.</li>
                         </ol>
                     </div>
                     <div class="single-terms">

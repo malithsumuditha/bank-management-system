@@ -17,10 +17,7 @@
                   <img src="assets/img/logo-white.png" alt="Image" />
                 </a>
                 <p class="comp-desc">
-                  On the other hand, we denounce whteous indig nation and
-                  dislike men wh beguiled moraized er hand consec teturus adipis
-                  iscing elit eiusmod tempordunt labore dolore magna aliqua
-                  consector tetur adip iscing.
+                Providing reliable, innovative, customer friendly financial services, utilizing cutting edge technology and focusing continuously on productivity improvement whilst developing our staff and acquiring necessary expertise to expand locally and regionally
                 </p>
                 <div class="social-link">
                   <ul class="social-profile list-style style1">
@@ -159,7 +156,7 @@
             <script>
               document.write(new Date().getFullYear());
             </script>
-            Raxa. All Rights Reserved By Malith
+            ABCBank. All Rights Reserved By Malith
             
           </p>
         </div>

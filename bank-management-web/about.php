@@ -52,7 +52,9 @@
                                 <div class="content-title style1">
                                     <span>Smart Banking</span>
                                     <h2>The Better Way To Save &amp; Invest Online Banking</h2>
-                                    <p>There are many variations of passages of Lorem Ipsum amet avoilble but majority have suffered alteration in some form, by injected humur or randomise words which don't sure amet sit dolor quras alto lorem.</p>
+                                    <p>Having set a benchmark in banking in Sri Lanka we have set standards, created an identity and forged an unsurpassable trend. 
+                                        Recognised as a trend setter, we have maintained our cultural identity while providing a range of products and services. 
+                                        Powered by state-of-the-art technology and driven by a team of highly motivated, dynamic individuals we have become the leader in private banking in Sri Lanka.</p>
                                 </div>
                                 <ul class="content-feature-list style1 list-style">
                                     <li><span><i class="flaticon-tick"></i></span>Cards that work all across the world.</li>
