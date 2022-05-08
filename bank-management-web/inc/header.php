@@ -199,7 +199,7 @@
                     </ul>
                   </li>
                   <li class="nav-item">
-                    <a href="contact.html" class="nav-link">Contact Us</a>
+                    <a href="contact.php" class="nav-link">Contact Us</a>
                   </li>
                   <li class="nav-item xl-none">
                     <a href="register.php" class="btn style1">Register Now</a>
