@@ -127,7 +127,7 @@
                 </div>
                 <ul class="navbar-nav ms-auto">
                   <li class="nav-item">
-                    <a href="#" class="nav-link">
+                    <a href="index.php" class="nav-link">
                       Home
                     </a>
                   </li>
@@ -147,19 +147,16 @@
                         </a>
                         <ul class="dropdown-menu">
                           <li class="nav-item">
-                            <a href="open-account.php" class="nav-link"
-                              >Super Saver Account</a
-                            >
+                            <a href="open_ss_account.php" class="nav-link"
+                              >Super Saver Account</a>
                           </li>
                           <li class="nav-item">
-                            <a href="project-details.php" class="nav-link"
-                              >Power Bonus Account</a
-                            >
+                            <a href="open_pb_account.php" class="nav-link"
+                              >Power Bonus Account</a>
                           </li>
                           <li class="nav-item">
-                            <a href="project-details.php" class="nav-link"
-                              >Regular Savings Account</a
-                            >
+                            <a href="open_rs_account.php" class="nav-link"
+                              >Regular Savings Account</a>
                           </li>
                         </ul>
                       </li>

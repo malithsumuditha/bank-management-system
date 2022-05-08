@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- Mirrored from templates.hibootstrap.com/raxa/rtl/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 25 Apr 2022 15:56:42 GMT -->
+<!-- 05 May 2022 14:56:44 GMT -->
 <?php include 'inc/header.php'; ?>
 
 <div class="content-wrapper">
@@ -257,6 +257,6 @@
 <script src="assets/js/main.js"></script>
 </body>
 
-<!-- Mirrored from templates.hibootstrap.com/raxa/rtl/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 25 Apr 2022 15:56:43 GMT -->
+<!--05 May 2022 14:56:44 GMT -->
 
 </html>
