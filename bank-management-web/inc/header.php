@@ -136,24 +136,6 @@
                   </li>
                   <li class="nav-item has-dropdown">
                     <a href="#" class="nav-link">
-                      Service
-                      <i class="ri-arrow-down-s-line"></i>
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li class="nav-item">
-                        <a href="service-one.php" class="nav-link"
-                          >Financial</a
-                        >
-                      </li>
-                      <li class="nav-item">
-                        <a href="service-two.php" class="nav-link"
-                          >Leasing</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="nav-item has-dropdown">
-                    <a href="#" class="nav-link">
                       Personal Banking
                       <i class="ri-arrow-down-s-line"></i>
                     </a>
@@ -165,137 +147,54 @@
                         </a>
                         <ul class="dropdown-menu">
                           <li class="nav-item">
-                            <a href="project.php" class="nav-link"
-                              >Saving Account</a
+                            <a href="open-account.php" class="nav-link"
+                              >Super Saver Account</a
                             >
                           </li>
                           <li class="nav-item">
                             <a href="project-details.php" class="nav-link"
-                              >Current Account</a
+                              >Power Bonus Account</a
+                            >
+                          </li>
+                          <li class="nav-item">
+                            <a href="project-details.php" class="nav-link"
+                              >Regular Savings Account</a
                             >
                           </li>
                         </ul>
                       </li>
+                       <li class="nav-item">                  
+                         <a href="#" class="nav-link">
+                            Deposits
+                           <i class="ri-arrow-down-s-line"></i></a>
+                         <ul class="dropdown-menu">
+                           <li class="nav-item">
+                             <a href="open-account.php" class="nav-link">Fixed Deposit</a>
+                           </li>
+                           <li class="nav-item">
+                             <a href="project-details.php" class="nav-link">Personal Foreign Currency Fixed Deposits</a>
+                           </li>
+                         </ul>
+                       </li>
+                    </ul>
+                  </li>
+                  <li class="nav-item has-dropdown">
+                    <a href="#" class="nav-link">
+                      Service
+                      <i class="ri-arrow-down-s-line"></i>
+                    </a>
+                    <ul class="dropdown-menu">
                       <li class="nav-item">
                         <a href="team.php" class="nav-link">Our Team</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="open-account.php" class="nav-link">Open Account</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="apply-loan.php" class="nav-link">Apply Loan</a>
-                      </li>
-                      <li class="nav-item">
-                        <a href="pricing.php" class="nav-link">Pricing Plan</a>
                       </li>
                       <li class="nav-item">
                         <a href="faq.php" class="nav-link">FAQ</a>
                       </li>
                       <li class="nav-item">
-                        <a href="testimonials.php" class="nav-link"
-                          >Testimonials</a
-                        >
+                        <a href="terms-of-service.php" class="nav-link">Terms of Service</a>
                       </li>
                       <li class="nav-item">
-                        <a href="#" class="nav-link">
-                          User Pages
-                          <i class="ri-arrow-down-s-line"></i>
-                        </a>
-                        <ul class="dropdown-menu">
-                          <li class="nav-item">
-                            <a href="my-account.php" class="nav-link"
-                              >My Account</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a href="login.php" class="nav-link">Login</a>
-                          </li>
-                          <li class="nav-item">
-                            <a href="register.php" class="nav-link"
-                              >Register</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a href="recover-password.php" class="nav-link"
-                              >Recover Password</a
-                            >
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item">
-                        <a href="terms-of-service.php" class="nav-link"
-                          >Terms of Service</a
-                        >
-                      </li>
-                      <li class="nav-item">
-                        <a href="privacy-policy.php" class="nav-link"
-                          >Privacy Policy</a
-                        >
-                      </li>
-                      <li class="nav-item">
-                        <a href="error-404.php" class="nav-link"
-                          >=</a
-                        >
-                      </li>
-                    </ul>
-                  </li>
-                  <li class="nav-item has-dropdown">
-                    <a href="#" class="nav-link">
-                      Blog
-                      <i class="ri-arrow-down-s-line"></i>
-                    </a>
-                    <ul class="dropdown-menu">
-                      <li class="nav-item">
-                        <a href="#" class="nav-link">
-                          Blog Layout
-                          <i class="ri-arrow-down-s-line"></i>
-                        </a>
-                        <ul class="dropdown-menu">
-                          <li class="nav-item">
-                            <a href="blog-no-sidebar.html" class="nav-link"
-                              >Blog Grid</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a href="blog-left-sidebar.html" class="nav-link"
-                              >Blog Left Sidebar</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a href="blog-right-sidebar.html" class="nav-link"
-                              >Blog Right Sidebar</a
-                            >
-                          </li>
-                        </ul>
-                      </li>
-                      <li class="nav-item">
-                        <a href="#" class="nav-link">
-                          Single Blog
-                          <i class="ri-arrow-down-s-line"></i>
-                        </a>
-                        <ul class="dropdown-menu">
-                          <li class="nav-item">
-                            <a
-                              href="blog-details-no-sidebar.html"
-                              class="nav-link"
-                              >Blog Details No Sidebar</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a
-                              href="blog-details-left-sidebar.html"
-                              class="nav-link"
-                              >Blog Details Left Sidebar</a
-                            >
-                          </li>
-                          <li class="nav-item">
-                            <a
-                              href="blog-details-right-sidebar.html"
-                              class="nav-link"
-                              >Blog Details Right Sidebar</a
-                            >
-                          </li>
-                        </ul>
+                        <a href="privacy-policy.php" class="nav-link">Privacy Policy</a>
                       </li>
                     </ul>
                   </li>
